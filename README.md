@@ -1,6 +1,6 @@
 ![](https://lightgbm.readthedocs.io/en/stable/_images/LightGBM_logo_black_text.svg)
 # Projeto Regressao Light-GBM
-__
+
 # LightGBM Regressão
 ## Este repositório contém um exemplo de como usar o LightGBM para criar um modelo de regressão. O LightGBM é um poderoso framework de gradient boosting desenvolvido pela Microsoft, que é eficiente e rápido, especialmente em grandes conjuntos de dados.
 
